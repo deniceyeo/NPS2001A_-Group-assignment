@@ -13,7 +13,3 @@ To classify and sort clean recyclables from contaminated recyclables, the team c
 
 ### Third level: Sorting Clean Glass from Clean Plastic 
 To classify and sort clean glass from clean plastic, the team will utilise [existing database and algorithm found on GitHub](https://github.com/jenkspt/recycle) 
-
-### Implicit Feedback: User engagement and bin's accuracy rate
-
-

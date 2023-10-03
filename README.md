@@ -12,4 +12,4 @@ Other databases we'll reference: [Singapore's guidelines on recyclables](https:/
 To classify and sort clean recyclables from contaminated recyclables, the team created a dynamic database - [Google drive](https://drive.google.com/drive/folders/1ajtfqsc5DEYgkiVz43b6S38CAW67r2VX?usp=sharing) - with photos of clean and contaminated recyclables to feed into the [machine learning model](https://teachablemachine.withgoogle.com/models/yxGdKb3qR/)
 
 ### Third level: Sorting Clean Glass from Clean Plastic 
-To classify and sort clean glass from clean plastic, the team will utilise [existing database and algorithm found on GitHub](https://github.com/jenkspt/recycle) 
+To classify and sort clean glass from clean plastic, the team will utilise [existing database and algorithm found on GitHub](https://github.com/jenkspt/recycle) and [Portland State University's recycling database](http://web.cecs.pdx.edu/~singh/rcyc-web/dataset.html) and [accompanying algorithm](https://anonymous.4open.science/r/DeepMAD-recycle-ver-0D45/README.md)

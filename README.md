@@ -13,3 +13,9 @@ To classify and sort clean recyclables from contaminated recyclables, the team c
 
 ### Third algorithm: Sorting Clean Glass from Clean Plastic 
 To classify and sort clean glass from clean plastic, the team will utilise [existing database and algorithm found on GitHub](https://github.com/jenkspt/recycle) and [Portland State University's recycling database](http://web.cecs.pdx.edu/~singh/rcyc-web/dataset.html) and [accompanying algorithm](https://anonymous.4open.science/r/DeepMAD-recycle-ver-0D45/README.md)
+
+## UI/UX
+We are in the midst of prototyping our UI for the recycling bin screen.
+1. [Prototype Draft 1](https://www.figma.com/proto/zu7PJEkUmmeuirhjImpYWM/UI-draft-1?type=design&node-id=9-3&t=bYIq9ILgK7o7dEli-0&scaling=scale-down&page-id=0%3A1)
+2. [Prototype Draft 2.1 - bin overload](https://www.figma.com/proto/J9V2iwkeGCsFyXWeaAOzOU/UI-draft-2?type=design&node-id=5-43&t=TIzvJZdymqCWTlfP-0&scaling=min-zoom&page-id=0%3A1)
+3. [Prototype Draft 2.2 - right amount of trash](https://www.figma.com/proto/lxF3c6U7X1ApaA8Y94ASQP/Untitled?type=design&node-id=1-37&t=QviciVytznvlgFAR-0&scaling=min-zoom&page-id=0%3A1)
